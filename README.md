@@ -1,5 +1,6 @@
 # Midpoint
 
+
 Vision: Generate concepts then models then animations, all with full control. Bring your story to life!
 
 - Setup `commonos-server` (Node.js)
